@@ -27,6 +27,14 @@
         https://github.com/XPoet/picx/blob/master/README.md
       </el-link>
     </div>
+    
+
+    <div class="help-info-item">
+      博客：
+      <el-link type="primary" href="https://sang.pub" target="_blank">
+        https://sang.pub
+      </el-link>
+    </div>
 
     <div class="help-info-item">
       贡献：欢迎各种形式的贡献，包括但不限于：美化界面、增加功能、改进代码、 修复 Bug 等。
